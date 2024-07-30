@@ -1,8 +1,8 @@
 Programm is working only on Windows\
 Programm is written with help of IP-API (for API) and libcurl (for requests)\
 
-<b style="color:red; font-size: 20px;">There is no exception handle</b>
-<b style="color:red; font-size: 20px;">There is no IP validation in 3 and 4 options</b>
+<b>There is no exception handle</b>
+<b>There is no IP validation in 3 and 4 options</b>
 
 1.Shows your IPv4 info by opening cmd and typing ipconfig using ShellExecute\
 2.Shows your public IPv4 address\
